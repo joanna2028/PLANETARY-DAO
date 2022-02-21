@@ -1,12 +1,6 @@
 # Global-Digital-Jurisdiction-of-Planet-Earth-
 
 
-
-ETHDENVER 2022
-
-I present the project like this:
-
-
 # VISION OF THE PROJECT:
 
 PLANET EARTH DIGITAL JURISDICTION (Blockchain of entire Planet Earth)
