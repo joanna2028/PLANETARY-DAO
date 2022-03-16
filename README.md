@@ -8,6 +8,7 @@ PLANET EARTH DAO - GLOBAL DIGITAL JURISDICTION (WHOLE BLOCKCHAIN PLANET EARTH)
 
 8Billion PEOPLE + NATION DAOs + Company DAOs --> All in same ledger.
 
+
 Different Blockchain Mechanisms for: 
 
 1. Citizens --> Proof of Personhood 
@@ -16,11 +17,11 @@ Different Blockchain Mechanisms for:
 
 
 
-1. INTERPLANETARY ID SYSTEM --> Wallet for people --> Planet Earth NFT Passports --> Planetary Citizens.
+*  INTERPLANETARY ID SYSTEM --> Wallet for people --> Planet Earth NFT Passports --> Planetary Citizens.
 
-2. NATION DAOs ID System --> Wallet for Nations......
+*  NATION DAOs ID System --> Wallet for Nations......
 
-3. COMPANIES DAOs ID System --> Wallets for companies..... 
+*  COMPANIES DAOs ID System --> Wallets for companies..... 
 
 
 # DESCRIPTION OF THE PROJECT:
