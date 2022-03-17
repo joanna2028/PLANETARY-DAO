@@ -1,7 +1,8 @@
 # Global-Digital-Jurisdiction-of-Planet-Earth-  
 # VISION OF THE PROJECT
 
-ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
+https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
+
 
 
 PLANET EARTH DAO -  Global Digital Jurisdiction
