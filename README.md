@@ -1,6 +1,7 @@
-# Global-Digital-Jurisdiction-of-Planet-Earth-
-
+# Global-Digital-Jurisdiction-of-Planet-Earth-  
 # VISION OF THE PROJECT
+
+https://docs.google.com/document/d/15YlnSxyI1SCrTb0ReYxMX1QvmYK_9bFnEZhVMzEqfWc/edit
 
 
 PLANET EARTH DAO -  Global Digital Jurisdiction
