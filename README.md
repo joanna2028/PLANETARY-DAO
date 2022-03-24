@@ -1,8 +1,8 @@
 # Global-Digital-Jurisdiction-of-Planet-Earth-  
 # VISION OF THE PROJECT
 
-https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
 
+ipfs.fleek.co/ipfs/bafybeiboqqadktzgtphounkcfabbui7665e6u3ffopw5enlggfqqw6tz2m
 
 
 PLANET EARTH DAO -  Global Digital Jurisdiction
@@ -113,4 +113,6 @@ Campaign disinformation
 Hacking database
 Hacking the voting software
 
+
+https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
 
