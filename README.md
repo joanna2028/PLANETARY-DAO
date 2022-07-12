@@ -8,6 +8,8 @@ ipfs.fleek.co/ipfs/bafybeiboqqadktzgtphounkcfabbui7665e6u3ffopw5enlggfqqw6tz2m
 
 Global Government
 
+https://www.youtube.com/watch?v=47s3XzURnk8&t=9s
+
 IMP= Ideological Money Pump (we are replacing IMF with IMP)
 Physix= Quantavote    (we are voting in global government using Physix - Quantavote)
 
