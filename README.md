@@ -6,6 +6,11 @@
 
 ipfs.fleek.co/ipfs/bafybeiboqqadktzgtphounkcfabbui7665e6u3ffopw5enlggfqqw6tz2m
 
+Global Government
+
+IMP= Ideological Money Pump (we are replacing IMF with IMP)
+Physix= Quantavote    (we are voting in global government using Physix - Quantavote)
+
 
 PLANET EARTH DAO -  Global Digital Jurisdiction
 
@@ -98,8 +103,6 @@ Companies
 
 We are building with ConsensYs
 
-
-
 *A digital identity wallet enables a user to establish relationships and interact with third parties in a trusted manner. It is a piece of software, which helps you to stay in control of your messaging, security, health records, privacy, purchases etc…
 
 
@@ -116,5 +119,22 @@ Hacking database
 Hacking the voting software
 
 
+We are replacing IMF wiht IMP
+
+IMF<IMP
+        
+       Ideological Money Pump
+        
+        
+       we are voting with Physix - QuantaVote
+        
+        
+        https://prajnainitiative.org/imp/
+
+https://physix.world/quantavote/
+
+
 https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
+
+https://physix.world/trinity-sophia/
 
