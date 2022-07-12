@@ -133,6 +133,7 @@ IMF<IMP
 
 https://physix.world/quantavote/
 
+https://prajnainitiative.org/quantavote/
 
 https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am46tpyu
 
