@@ -142,3 +142,7 @@ https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am
 https://physix.world/trinity-sophia/
 
         https://physix.world/mainers/
+        
+
+ https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit?usp=sharing
+        
