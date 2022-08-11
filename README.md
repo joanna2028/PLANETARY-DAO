@@ -4,6 +4,8 @@
 # VISION OF THE PROJECT
 
 
+https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
+
 ipfs.fleek.co/ipfs/bafybeiboqqadktzgtphounkcfabbui7665e6u3ffopw5enlggfqqw6tz2m
 
 Global Government
