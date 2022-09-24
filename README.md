@@ -8,7 +8,6 @@ https://prajnainitiative.org/
 
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
-ipfs.fleek.co/ipfs/bafybeiboqqadktzgtphounkcfabbui7665e6u3ffopw5enlggfqqw6tz2m
 
 Global Government
 
@@ -147,8 +146,8 @@ https://ipfs.fleek.co/ipfs/bafybeibqpfekg34xgwde7isoyc5eo6luyyiwlqkwc5qig2sgn7am
 
 https://physix.world/trinity-sophia/
 
-        https://physix.world/mainers/
+https://physix.world/mainers/
         
 
- https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit?usp=sharing
+https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit?usp=sharing
         
