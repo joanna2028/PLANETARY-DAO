@@ -26,7 +26,7 @@ PLANET EARTH DAO -  Global Digital Jurisdiction
 
 # DESCRIPTION OF THE PROJECT
 
-Different Blockchain mechanism for,
+Different Blockchain mechanisms for,
 
 Citizens → Proof of Personhood
 Nations  → Proof of Nation DAOs
