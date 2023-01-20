@@ -131,18 +131,14 @@ IMF<IMP
        Ideological Money Pump
         
         
-       we are voting with Physix - QuantaVote
+       we are voting with Physix - QuantaVote - AGI Consensus Mechanism
         
         
        https://prajnainitiative.org/imp/
         
 
 
-https://prajnainitiative.org/quantavote/
-
-https://physix.world/trinity-sophia/
-
-https://physix.world/mainers/
+https://prajnainitiative.org/
         
 https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit?usp=sharing
         
