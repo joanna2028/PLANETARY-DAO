@@ -10,6 +10,8 @@ https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/
 
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
+https://docs.google.com/presentation/d/10jnuJJBfE3Agah1H3LuYfVnrIu2C6yrgOTK8bD3pw1w/edit?usp=sharing
+
 
 Global Government
 
@@ -133,7 +135,7 @@ IMF<IMP
        Ideological Money Pump
         
         
-       we are voting with Physix - QuantaVote - AGI Consensus Mechanism
+       we are voting with Physix - Q-Vote - AGI Consensus Mechanism
         
         
        https://prajnainitiative.org/imp/
