@@ -6,6 +6,8 @@
 
 https://prajnainitiative.org/
 
+https://docs.google.com/document/d/1l1tABreYQl1i0fbUAO1t0V0vMe8uWDW_8GLVkzPh8A8/edit
+
 https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit
 
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
