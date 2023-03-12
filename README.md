@@ -6,10 +6,6 @@
 
 https://prajnainitiative.org/
 
-https://docs.google.com/document/d/1l1tABreYQl1i0fbUAO1t0V0vMe8uWDW_8GLVkzPh8A8/edit
-
-https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit
-
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
 https://docs.google.com/presentation/d/10jnuJJBfE3Agah1H3LuYfVnrIu2C6yrgOTK8bD3pw1w/edit?usp=sharing
@@ -149,6 +145,10 @@ https://physix.world/
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit#
 
 https://docs.google.com/presentation/d/1Kz-b-m6U6-8OPCy0C8MlK55Zgf5osQP6b-zObdcdJOI/edit?usp=sharing
+
+https://docs.google.com/document/d/1l1tABreYQl1i0fbUAO1t0V0vMe8uWDW_8GLVkzPh8A8/edit
+
+https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit
 
 http://planetarycouncil.org/
 
