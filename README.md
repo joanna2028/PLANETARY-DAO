@@ -4,7 +4,7 @@
 # VISION OF THE PROJECT
 
 
-https://prajnainitiative.org/
+https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
