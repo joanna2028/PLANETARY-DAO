@@ -8,7 +8,7 @@ https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
 https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
-https://docs.google.com/presentation/d/10jnuJJBfE3Agah1H3LuYfVnrIu2C6yrgOTK8bD3pw1w/edit?usp=sharing
+https://docs.google.com/presentation/d/10jnuJJBfE3Agah1H3LuYfVnrIu2C6yrgOTK8bD3pw1w/edit
 
 
 Global Government
@@ -76,7 +76,7 @@ But we have to move forward & fast → We don’t have time to waste → because
 Bitcoin
 
 
-Planet Earth DAO  and its respective protocols,
+Planetary DAO  and its respective protocols,
 
 
 Global Taxation Protocol
