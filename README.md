@@ -49,7 +49,7 @@ New web browser extension & mobile app to allow People - Nations - Companies to 
 
 # PROBLEM 
 
-Ethereum
+ETHEREUM
 
 → Ethereum is left behind.
 
@@ -73,38 +73,38 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 # SOLUTION
 
-Bitcoin
+BITCOIN
 
 
-Planetary DAO  and its respective protocols,
+Planetary DAO and its respective protocols,
 
 
-Global Taxation Protocol
-Interplanetary ID system - Global NFT Passports
-Planetary ID wallets
+*Global Taxation Protocol
+*Interplanetary ID system - Global NFT Passports
+*Planetary ID wallets
 
 
 To build  --> Global Government
 
 
-Some core use cases of Planet Earth DAO 
+# Some core use cases of Planet Earth DAO 
 
-Land registry
-Transparent gov spending
-Automated taxation Global Tax
-UBI
+*Land registry
+*Transparent gov spending
+*Automated taxation Global Tax
+*UBI
 
-Some core use cases of Planet Earth NFT Passports
+# Some core use cases of Planet Earth NFT Passports
 
-Voting
-Taxation
-Border crossing
-Medical records
+*Voting
+*Taxation
+*Border crossing
+*Medical records
 
 (or you could get a loan, or purchase a house, etc…  all you do in your Nation but worldwide)
 
 
-Planetary ID wallets → Digital Identity Wallets  (  Decentralized Identity )
+# Planetary ID wallets → Digital Identity Wallets  (  Decentralized Identity )
 
 Citizens
 Nations States
@@ -122,10 +122,10 @@ KEY words:  INDIVIDUALS CONTROL, ENABLING TRUSTED
 
  Data Integrity  prevent,
 
-Fake news
-Campaign disinformation
-Hacking database
-Hacking the voting software
+*Fake news
+*Campaign disinformation
+*Hacking database
+*Hacking the voting software
 
 
 We are replacing IMF wiht IMP
@@ -138,8 +138,7 @@ IMF<IMP
        we are voting with Physix - Q-Vote - AGI Consensus Mechanism
         
         
-      
-        
+             
 
 http://planetarycouncil.org/
 
