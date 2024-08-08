@@ -49,7 +49,7 @@ New web browser extension & mobile app to allow People - Nations - Companies to 
 
 # PROBLEM 
 
-Scale Ethereum
+Ethereum
 
 → Ethereum is left behind.
 
@@ -72,6 +72,8 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 
 # SOLUTION
+
+Bitcoin
 
 
 Planet Earth DAO  and its respective protocols,
