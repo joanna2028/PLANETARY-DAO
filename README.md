@@ -141,17 +141,14 @@ IMF<IMP
        https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
         
 
-    
+http://planetarycouncil.org/
+
             
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit#
 
-https://docs.google.com/presentation/d/18o4-TGvlPCKrIMNKbR95M28KX3urnq_R740ERzr9XnM/edit#slide=id.g119033853f5_0_1218
 
-https://docs.google.com/document/d/1l1tABreYQl1i0fbUAO1t0V0vMe8uWDW_8GLVkzPh8A8/edit
 
-https://docs.google.com/document/d/1Xobd6B1y5m1JrxZ9cHeWtjE1Y7d3Ke70yFGU2_StqcE/edit
 
-http://planetarycouncil.org/
 
 
        
