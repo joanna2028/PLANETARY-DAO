@@ -49,7 +49,7 @@ New web browser extension & mobile app to allow People - Nations - Companies to 
 
 # PROBLEM 
 
-# ETHEREUM
+ETHEREUM
 
 → Ethereum is left behind.
 
@@ -73,7 +73,7 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 # SOLUTION
 
-# BITCOIN
+BITCOIN
 
 
 Planetary DAO and its respective protocols,
