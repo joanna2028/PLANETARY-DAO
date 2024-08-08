@@ -138,7 +138,7 @@ IMF<IMP
        we are voting with Physix - Q-Vote - AGI Consensus Mechanism
         
         
-       https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
+      
         
 
 http://planetarycouncil.org/
