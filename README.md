@@ -73,7 +73,13 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 # SOLUTION
 
-BITCOIN
+BITCOIN 
+
+(ethereum money supply will be converted in Bitcoin and allocated in INTERNET BANK, aka planetary DAO.) same Bitcoin supply.
+
+
+we allocate all cryptocurrencies on INTERNET BANK. ( Internet Bank will be X. condition: make X a DAO )
+
 
 
 Planetary DAO and its respective protocols,
