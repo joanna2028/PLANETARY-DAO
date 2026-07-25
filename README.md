@@ -190,7 +190,7 @@ http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanx
 ## Product Demo
 [![Bitcoin Bank Nostr](https://github.com/joanna2028/bitcoin-bank-nostr/raw/main/banner.jpg)](https://github.com/joanna2028/bitcoin-bank-nostr)
 
-https://github.com/joanna2028/bitcoin-bank-nostr
+https://github.com/josmith-btc/bitcoin-bank-nostr
 
 ## Figma Prototype
 https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype
