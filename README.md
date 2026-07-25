@@ -170,15 +170,13 @@ https://github.com/joanna2028/bitcoin/pull/1
 
 https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
 
-https://github.com/joanna2028/bitcoin-bank-nostr/tree/main
+https://github.com/josmith-btc/bitcoin-bank-nostr/tree/main
 
 
 
 Me:
 
 https://twitter.com/joanna_web
-
-https://www.linkedin.com/in/jsmithnetwork/
 
 https://substack.com/@jpnetwork
 
