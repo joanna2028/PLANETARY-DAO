@@ -173,15 +173,6 @@ https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/i
 https://github.com/josmith-btc/bitcoin-bank-nostr/tree/main
 
 
-
-Me:
-
-https://twitter.com/joanna_web
-
-https://substack.com/@jpnetwork
-
-
-
 Active Bitcoin-Nostr Dev:
 
 http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
