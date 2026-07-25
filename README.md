@@ -13,9 +13,9 @@ W3ID - ₿ BITCOIN WHITE PAPER
 
 https://www.canva.com/design/DAGt_Zq7HKw/Y1dMQD1wU7raSScMWLnwVA/view
 
-https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/edit?usp=sharing
+https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/
 
-https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
+https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/
 
 
 # ₿ BITCOIN GOV: WE THE PEOPLE
